@@ -2,4 +2,4 @@
 [![Node](https://badges.aleen42.com/src/node.svg)]()
 [![Javascript](https://badges.aleen42.com/src/javascript.svg)]()
 
-[beefsteak.dev](beefsteak.dev)
+[beefsteak.dev](https://beefsteak.dev/)
